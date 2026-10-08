@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AudioContentData
   m_EditorClassIdentifier: Assembly-CSharp::AudioContentData
   id: 1
-  contentType: 1
+  contentType: 2
   dangerousAudio:
   - _clip: {fileID: 8300000, guid: 142d712e03650fa4c82c401db05ff717, type: 3}
     _volume: 0.384
